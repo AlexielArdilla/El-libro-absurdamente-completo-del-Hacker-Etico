@@ -1,6 +1,7 @@
 ![`Portada`](PORTADA_libro_absurdo_del_hacker_Para_Kindle.jpg)
 
 🚀🔐 ¡El libro que TODO hacker ético estaba esperando ya está aquí!
+
 📖 **El libro absurdamente completo del Hacker Ético** no es solo un manual… es una BIBLIA técnica cargada de ejemplos prácticos, laboratorios paso a paso y secretos de los profesionales del pentesting .
 
 🔥 ¿Qué encontrarás dentro?
